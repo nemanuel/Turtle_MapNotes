@@ -2,9 +2,9 @@
 ## Title: |cffabd473Turtle|r Map Notes
 ## Author: Chromag
 ## X-eMail: chromag316@gmail.com
-## Notes: A lightweight world-map notes addon for Turtle WoW that lets you add, edit, and manage custom notes directly on the map.
+## Notes: Custom and automatic gathering map notes.
 ## SavedVariables: TurtleMapNotesDB
-## Version: 1.0.0
+## Version: 1.0.1
 
 Core.lua
 Coordinates.lua
